@@ -1,0 +1,47 @@
+# LatihanDazarPemograman
+Jawaban Soal PG & Uraian UTS
+
+Pilihan Ganda
+1. B. Definitness
+2. E. 47.500
+3. E. 500.000
+4. A. A.ESCAPE -> M -> ENTER -> JUPYTER GOODBOOKS
+5. B. Git Status
+6. D. Nama variabel hanya boleh diawal dengan huruf
+7. C. The book with the title 'My Programming is My Adventure' has a price 1000000
+8. C. 3
+9. B. 0 True True True
+10. B. False
+11. D. c1 = address[0].lower();c2 = address[6]; print(c1+c2)
+12. B. Perbandingan
+13. A. Kode if selalu berpasangan dengan elif
+14. A. Winger Defender Keeper
+15. E. 80
+16. B. Permasalahan Perulangan Telah diketahui batas awal & akhir
+18. A. 20
+19. D. 5 35
+20. E. Berkurang satu hingga tak terhingga
+
+Essay
+1.email = input("Masukan Email:")
+pos_at = 0
+pas_titik = 0
+pos_at = email.find('@')
+pas_titik = email.find(".")
+print(pos_at < pos_titik)
+
+2. Kalimat = input("masukan Email: ")
+i = 0
+kata = ""
+for i in range (len(kalimat)):
+if kalimat[i] = "a" or kalimat [i] = "A"
+kata = kata + "4"
+elif kalimat[1] = "e" or kalimat [i] = "E"
+kata = kata + "3"
+elif kalimat[i] = "L"
+kata = kata + "7"
+elif kalimat[i] "S"
+kata = kata + "5"
+else:
+kata = kata + kalimat[i]
+print(kata)
